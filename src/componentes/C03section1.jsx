@@ -90,9 +90,9 @@ const C03section1 = () => {
 
 <button class="btn btn-warning" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasTop" aria-controls="offcanvasTop">Guia de nuestros talleres</button>
 
-<div class="offcanvas offcanvas-top" tabindex="-1" id="offcanvasTop" aria-labelledby="offcanvasTopLabel">
+<div class="offcanvas offcanvas-top" tabindex="-1" id="offcanvasTop" aria-labelledby="offcanvasTopLabel1">
 <div class="offcanvas-header">
-  <h5 id="offcanvasTopLabel"><iframe width="560" height="315" src="https://www.youtube.com/embed/yKX1OtB-tKk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></h5>
+  <h5 id="offcanvasTopLabel1"><iframe width="560" height="315" src="https://www.youtube.com/embed/yKX1OtB-tKk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></h5>
   <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
 </div>
 <div class="offcanvas-body">
